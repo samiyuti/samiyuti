@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: samiyuti-proxy
+    name: samiyuti
     env: python
     region: Oregon
     plan: free
